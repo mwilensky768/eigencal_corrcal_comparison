@@ -4,6 +4,6 @@ To run this notebook, you need to be using the chord software environment. Instr
 
 For now, the following branches may be necessary for proper functionality ((fork if relevant) repo/branch, commit hash):
 
-chord_pipeline/ss/default-tel, 95547e
-draco/eigencal, 331d8f
-(chord-observatory) diftscan/ss/angpos-ext, 2aba33
+- chord_pipeline/ss/default-tel, 95547e
+- draco/eigencal, 331d8f
+- (chord-observatory) diftscan/ss/angpos-ext, 2aba33
